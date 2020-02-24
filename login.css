@@ -1,0 +1,124 @@
+.gsquare {
+    border: 1px solid green;
+    height:20%;
+    width: 100%;
+    background: green;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+#sjc {
+    width: 110px;
+    height: 110px;
+    border-radius: 100%;
+}  
+
+h1 {
+
+
+    position: absolute;
+    font-size: xx-large;
+    left: 10%;
+    top: 0%;
+    color: white;
+
+}
+.line {
+
+    border: 1px solid white;
+    position: absolute;
+    top: 50%;
+    width: 18.5%;
+    left: 10%;
+}
+
+p1 {
+
+    position: absolute;
+    top: 50%;
+    left:10%;
+    font-size:larger;
+    color:white;
+
+}
+
+.ysquare {
+
+    border:1px solid yellow;
+    width: 100%;
+    height:3%;
+    position: absolute;
+    top:20%;
+    background-color: yellow;
+    left:0%;
+
+}
+
+#login{
+    position: absolute;
+    top:45%;
+    left:39%;
+    width: 20%;
+
+}
+
+p3 {
+    position: absolute;
+    top:30%;
+    left:39%;
+    font-size: xx-large;
+}
+
+p4{
+    position: absolute;
+    top:40%;
+    left:39%;
+    font-size: large;
+}
+
+#password {
+    position: absolute;
+    top:55%;
+    left:39%;
+    width: 20%;
+
+}
+
+p5 {
+    position: absolute;
+    top: 50%;
+    left: 39%;
+
+}
+
+p6 {
+
+
+    position: absolute;
+    top: 59%;
+    left: 39%;
+    font-style: italic;
+}
+
+#register {
+
+
+    position: absolute;
+    top: 65%;
+    left: 39%;
+    width: 5%;
+
+    background-color: green;
+    color: white;
+}
+
+#blogin {
+
+    position : absolute;
+    left: 55.7%;
+    top:65%;
+    color: white;
+    background-color: green;
+
+}
